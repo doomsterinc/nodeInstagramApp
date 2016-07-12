@@ -1,0 +1,29 @@
+{
+  "name": "nodesimpleapp",
+  "version": "0.0.1",
+  "description": "A Simple App with NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomsterinc/nodeSimpleApp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "javascript"
+  ],
+  "author": "Maicon Giovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doomsterinc/nodeSimpleApp/issues"
+  },
+  "homepage": "https://github.com/doomsterinc/nodeSimpleApp#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "instagram-node": "^0.5.8"
+  }
+}
